@@ -1,9 +1,9 @@
-package lt.toda.projects;
+package lt.toda.factorial;
 
 import java.math.BigInteger;
 import java.util.Scanner;
 
-public class Factorial {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = 0;
