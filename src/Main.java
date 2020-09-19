@@ -1,5 +1,3 @@
-package lt.toda.factorial;
-
 import java.math.BigInteger;
 import java.util.Scanner;
 
